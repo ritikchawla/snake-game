@@ -1,0 +1,25 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+snake-game # Assuming 'snake-game' is the compiled binary name
+
+# Go dependency directory (if using vendor/)
+# vendor/
+
+# Node.js / React (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+frontend/.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*~

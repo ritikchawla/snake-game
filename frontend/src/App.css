@@ -1,0 +1,40 @@
+/* General App Styles */
+body {
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.game-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  font-size: 1.1em;
+  color: #555;
+  min-width: 300px; /* Ensure it spans a decent width */
+}
+
+.game-info span {
+  padding: 5px 10px;
+  background-color: #eee;
+  border-radius: 4px;
+}
