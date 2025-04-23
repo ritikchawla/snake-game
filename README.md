@@ -57,7 +57,7 @@ A classic Snake game implemented with a Go backend and a React frontend using Vi
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ritikchawla/snake-game#
+    git clone https://github.com/ritikchawla/snake-game
     cd snake-game
     ```
 
